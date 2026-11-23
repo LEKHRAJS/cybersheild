@@ -1,0 +1,10 @@
+{
+  "computer_name": "LEKHRAJ",
+  "collected_at": "2026-11-10T15:19:00+05:30",
+  "output_folder": "CollectedLogs",
+  "requested_channels": 10,
+  "successful": 9,
+  "failed": 0,
+  "not_installed": 1,
+  "manifest": "CollectedLogs\\collection_manifest.csv"
+}

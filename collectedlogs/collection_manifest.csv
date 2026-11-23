@@ -1,0 +1,11 @@
+﻿channel,status,file,size_bytes,started_at,completed_at,message
+Security,Success,CollectedLogs\Security.evtx,21041152,2026-11-10T15:18:58+05:30,2026-11-10T15:18:59+05:30,
+System,Success,CollectedLogs\System.evtx,21041152,2026-11-10T15:18:59+05:30,2026-11-10T15:18:59+05:30,
+Application,Success,CollectedLogs\Application.evtx,21041152,2026-11-10T15:18:59+05:30,2026-11-10T15:19:00+05:30,
+Microsoft-Windows-PowerShell/Operational,Success,CollectedLogs\Microsoft-Windows-PowerShell_Operational.evtx,6361088,2026-11-10T15:19:00+05:30,2026-11-10T15:19:00+05:30,
+Microsoft-Windows-Windows Defender/Operational,Success,CollectedLogs\Microsoft-Windows-Windows_Defender_Operational.evtx,1118208,2026-11-10T15:19:00+05:30,2026-11-10T15:19:00+05:30,
+Microsoft-Windows-TaskScheduler/Operational,Success,CollectedLogs\Microsoft-Windows-TaskScheduler_Operational.evtx,69632,2026-11-10T15:19:00+05:30,2026-11-10T15:19:00+05:30,
+Microsoft-Windows-TerminalServices-LocalSessionManager/Operational,Success,CollectedLogs\Microsoft-Windows-TerminalServices-LocalSessionManager_Operational.evtx,1118208,2026-11-10T15:19:00+05:30,2026-11-10T15:19:00+05:30,
+Microsoft-Windows-TerminalServices-RemoteConnectionManager/Operational,Success,CollectedLogs\Microsoft-Windows-TerminalServices-RemoteConnectionManager_Operational.evtx,69632,2026-11-10T15:19:00+05:30,2026-11-10T15:19:00+05:30,
+Microsoft-Windows-Windows Firewall With Advanced Security/Firewall,Success,CollectedLogs\Microsoft-Windows-Windows_Firewall_With_Advanced_Security_Firewall.evtx,1118208,2026-11-10T15:19:00+05:30,2026-11-10T15:19:00+05:30,
+Microsoft-Windows-Sysmon/Operational,NotInstalled,,0,,,Channel is not present on this Windows installation.

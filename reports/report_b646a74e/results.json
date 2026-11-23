@@ -1,0 +1,1 @@
+{"summary": {"total_events": 0, "total_findings": 0, "severity": [{"severity": "High", "count": 0}, {"severity": "Medium", "count": 0}, {"severity": "Low", "count": 0}, {"severity": "Informational", "count": 0}], "top_rules": [], "top_event_ids": [], "top_users": [], "top_ips": [], "top_hosts": [], "top_processes": [], "channels": [], "logons": []}, "findings": []}
